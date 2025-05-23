@@ -1,4 +1,4 @@
-# Solex - Solana Explorer
+ Solana Explorer
 
 Solex is a user-friendly Solana blockchain explorer offering real-time data. Track network performance, assets, and validator statuses with ease.
 
